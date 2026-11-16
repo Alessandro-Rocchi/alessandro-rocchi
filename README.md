@@ -14,10 +14,10 @@ I design and build projects across data management, data visualization, semantic
 | Project | Summary | Stack | Link |
 | :--- | :--- | :--- | :--- |
 | **Les Rues du CSS** | Multimedia exploration of Paris through film, combining interactive maps and themed layouts. | `HTML` `JavaScript` `CSS` | [Repository](https://github.com/Alessandro-Rocchi/project_Web_Technologies) |
-| **Dylan Dog Citation LODLAM Project** | Research workflow for modeling and publishing Linked Open Data extracted from a Wikipedia source. | `XML` `RDF` `OWL` `TEI` | — <!-- Add repo URL when public --> |
-| **Computational Management of Data — Sequels and Sparkles!** | Hybrid query handler in Python that queries a relational database and a graph database and merges the results. | `Python` `SQL` `Graph DB` | — <!-- Add repo URL when public --> |
+| **Dylan Dog Citation LODLAM Project** | Research workflow for modeling and publishing Linked Open Data extracted from a Wikipedia source. | `XML` `RDF` `OWL` `TEI` | [Repository](https://github.com/Alessandro-RocchiInformationScienceandCH)  |
+| **Computational Management of Data — Sequels and Sparkles!** | Hybrid query handler in Python that queries a relational database and a graph database and merges the results. | `Python` `SQL` `Graph DB` | [Repository](https://github.com/Alessandro-Rocchi/project_CompData) |
 | **PROJECT APEX // Pit Wall OS & Motorsport Manager** | Motorsport management game with a data-heavy pit wall interface. | `React` `Tailwind CSS` | — <!-- Add repo URL when public --> |
-| **FantaAsta Live** | Live fantasy football auction web application. | `React` `Tailwind CSS` | — <!-- Add repo URL when public --> |
+| **FantaAsta Live** | Live fantasy football auction web application. | `React` `Tailwind CSS` | [Repository](https://github.com/Alessandro-Rocchi/project-apex)  |
 
 ## Tools & Methods
 
